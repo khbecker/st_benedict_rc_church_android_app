@@ -1,0 +1,48 @@
+St. Benedict RC Church app plans & to do list:
+
+Planned Features:
+- Tab-based interface
+    - Basic info tab
+        - Church name
+        - Picture
+        - Address
+        - Phone number
+        - Short info blurb
+        - Priests names/contact info
+    - Mass times tab
+        - Weekend masses
+        - Weekday masses
+        - Other events (novena, confession, etc)?
+    - Google maps tab
+        - Use google map object with pin on church
+    - Web portal tab
+        - Website link
+        - Tumblr link
+        - Blog link
+        - Facebook link
+        - Twitter link (button to follow us if Twitter is installed?)
+- Menu items
+    - About
+        - version info
+        - contact info
+
+Future features: (wishlist)
+- Parish Calendar
+- Fancy Graphics
+
+To do list:
+- [Complete] Setup git repository
+- [In progress] Setup android sdk and eclipse environment
+- Build skeleton application with tabs
+- Build basic info tab
+- Build mass times tab
+- Build Web portal tab
+- Test prototype app on G1/G2 phones
+- Build Google maps tab
+- Build menu items
+- Further testing
+- Build basic web page with app info for posting on website
+- Send app to technology committee for testing    
+
+App Specs:
+- support Android 2.2+?
