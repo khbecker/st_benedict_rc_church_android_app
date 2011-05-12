@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.TabHost;
 import android.widget.TabHost.TabSpec;
 
-public class TabBarExample extends TabActivity {
+public class TabBar extends TabActivity {
 /** Called when the activity is first created. */
 @Override
 public void onCreate(Bundle savedInstanceState) {
@@ -26,8 +26,8 @@ TabSpec secondTabSpec = tabHost.newTabSpec("tid2");
 
 /** TabSpec setIndicator() is used to set name for the tab. */
 /** TabSpec setContent() is used to set content for a particular tab. */
-firstTabSpec.setIndicator("First Tab Name").setContent(new Intent(this,InfoTab.class));
-secondTabSpec.setIndicator("Second Tab Name").setContent(new Intent(this,SecondTab.class));
+firstTabSpec.setIndicator("Church Info").setContent(new Intent(this,InfoTab.class));
+secondTabSpec.setIndicator("Mass Times").setContent(new Intent(this,MassTimesTab.class));
 
 /** Add tabSpec to the TabHost to display. */
 tabHost.addTab(firstTabSpec);

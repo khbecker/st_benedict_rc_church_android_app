@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, Main!</string>
-    <string name="app_name">St. Benedict Roman Catholic Church</string>
-    <string name="infotab">Info Tab</string>
     <string name="secondtab">Second Tab</string>
+    <string name="church_name">St. Benedict Roman Catholic Church</string>
+    <string name="church_address">1317 Eggert Road\nAmherst, NY 14226-3396</string>
+	<string name="church_phone">(716) 834-1041 phone</string>
+	<string name="church_fax">(716) 835-5949 fax</string>
+	<string name="church_info">Church info goes here.</string>
+	<string name="mass_times">Weekends:\n
+Saturday 5:00 pm\n
+Sunday 8:00, 10:00 and 11:30 am\n
+\n
+Weekdays:\n
+7:00 am\n
+8:15 am (when school is in session)\n
+\n
+Holy Days:\n
+See bulletin for details.</string>
 </resources>
