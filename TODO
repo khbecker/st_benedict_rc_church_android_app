@@ -34,8 +34,8 @@ To do list:
 - [Complete] Setup git repository
 - [Complete] Setup android sdk and eclipse environment
 - [Complete] Make sample skeleton application with tabs
-- Build basic info tab
-- Build mass times tab
+- [In progress] Build basic info tab
+- [In progress] Build mass times tab
 - Build Web portal tab
 - Test prototype app on G1/G2 phones
 - Build Google maps tab
