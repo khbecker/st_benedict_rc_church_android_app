@@ -32,8 +32,8 @@ Future features: (wishlist)
 
 To do list:
 - [Complete] Setup git repository
-- [In progress] Setup android sdk and eclipse environment
-- Build skeleton application with tabs
+- [Complete] Setup android sdk and eclipse environment
+- [Complete] Make sample skeleton application with tabs
 - Build basic info tab
 - Build mass times tab
 - Build Web portal tab
